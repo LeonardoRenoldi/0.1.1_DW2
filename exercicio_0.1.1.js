@@ -9,4 +9,4 @@ function calcularBoleto(valorBoleto, diasAtrasados, taxa, total) {
 }
 
 const resultado = calcularBoleto(valorBoleto, diasAtrasados, taxa, taxa);
-console.log(calcularBoleto);
+console.log(resultado);
