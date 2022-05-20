@@ -24,10 +24,10 @@ const arquivos = [
 ];
 
 function invertArray(arquivos) {
-  if (excluido == true) {
-    return (excluido = false);
-  } else if (excluido == false) {
-    return (excluido = true);
+  if (arquivos.excluido == true) {
+    return (arquivos.excluido = false);
+  } else if (arquivos.excluido == false) {
+    return (arquivos.excluido = true);
   }
 }
 
