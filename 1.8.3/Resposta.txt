@@ -1,5 +1,4 @@
-URL: https://www.auxiliadorapredial.com.br/alugar/residencial/rs+porto-alegre+cidade-baixa?quartos=2&sem-fiador-ou-garantias=true
+//URL: https://www.auxiliadorapredial.com.br/alugar/residencial/rs+porto-alegre//+cidade-baixa?quartos=2&sem-fiador-ou-garantias=true//
 
-Server:www.auxiliadorapredial.com.br
-Path:/alugar/residencial/rs+porto-alegre+cidade-baixa
-Query:?quartos=2&sem-fiador-ou-garantias=true
+
+const do
